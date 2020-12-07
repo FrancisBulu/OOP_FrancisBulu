@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_FrancisBulu.Models.ReisReservatie">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAAAAAAAABAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\ReisReservatie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Adres">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAgAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.LogMessage">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LogMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Persoon">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Persoon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Reisbureau">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Reisbureau.cs</FileName>
+      <NewMemberFileName>Models\reisbureau.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.LoggerService">
+    <Position X="4" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LoggerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Reis">
+    <Position X="3.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAACgIAAA=</HashCode>
+      <FileName>Models\Reis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Cruise">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Cruise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Autovakantie">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Autovakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FrancisBulu.Models.Vliegtuigvakantie">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\Vliegtuigvakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOP_FrancisBulu.Interfaces.ILoggable">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILoggable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
